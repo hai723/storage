@@ -1,0 +1,10 @@
+.hai1723nuker phá server
+.masslog tạo log cả đống cho server
+.hai1723ontop đổi icon và name server
+.spam tạo kênh tạo wehook spam 10 lần vào
+.textclear xoá hết kênh text
+.invite invite nuker
+?saoluu tạo mẫu sao lưu
+!help cái này
+
+is.gd/hai1723nuker
