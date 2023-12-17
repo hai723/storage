@@ -25,5 +25,5 @@ WScript.Sleep 100
 WshShell.SendKeys "6"
 WScript.Sleep 100
 WshShell.SendKeys "6"
-WScript.Sleep 1000
+WScript.Sleep 100
 WshShell.SendKeys "{ENTER}"
