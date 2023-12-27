@@ -1,0 +1,4 @@
+1.download
+https://dl.google.com/edgedl/chrome-remote-desktop/chromeremotedesktophost.msi
+2.run command
+"%PROGRAMFILES(X86)%\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AfJohXk9opI1eMwZyC_cnsCkC0U5_OGuaIVtvXNgLvlkC_VlVEz4DCAXPU_OTNSTS34phg" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=%COMPUTERNAME% --pin=999666
