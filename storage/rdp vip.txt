@@ -1,0 +1,2 @@
+key:us_01ead298175dbe50e7833f259488d54d
+download:https://staticdownloads.site24x7.com/server/Site24x7WindowsAgent.msi
