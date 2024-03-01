@@ -1,2 +1,1 @@
-hai1723rat-60039.portmap.io,
-17482
+hai1723rat-60039.portmap.io:60039
